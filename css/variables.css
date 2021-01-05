@@ -1,0 +1,18 @@
+:root {
+  --yellow: #fae100;
+}
+
+#login-form input[type="submit"] {
+  background-color: var(--yellow);
+  cursor: pointer;
+  font-size: 16px;
+  padding: 17px 0px;
+  border-radius: 3px;
+}
+
+#login-form a {
+  text-align: center;
+  text-decoration: none;
+  color: inherit;
+  font-size: 13px;
+}
